@@ -9,7 +9,7 @@ DDOS MERUPAKAN HAL YANG ILEGAL KALAU LU ABUSE TANGGUNG
 SENDIRI AKIBATNYA GUA GA NAKUT NAKUTIN GUA CUMA PERINGATIN
 OKEE JANGAN SAMPE KALIAN ABUSE""")
 print("\033[0m")
-print("\033[94mCode By BanuXyz | Rename Community")
+print("\033[94mCode By BanuXyz | Garuda Pride Roleplay | GPRP")
 print("\033[0m")
 print("Tunggu 5 Detik Baca Dulu...")
 time.sleep(5)
@@ -17,6 +17,7 @@ time.sleep(5)
 os.system("clear")
 print("""\033[95m
  Tools By : BanuXyz
+ Remake By : Franklin Slebew
   ▄▄▄▄    ▄▄▄      ███▄    █  █    ██ ▒██   ██▒▓██   ██▓▒███████▒
  ▓█████▄ ▒████▄    ██ ▀█   █  ██  ▓██▒▒▒ █ █ ▒░ ▒██  ██▒▒ ▒ ▒ ▄▀░
  ▒██▒ ▄██▒██  ▀█▄ ▓██  ▀█ ██▒▓██  ▒██░░░  █   ░  ▒██ ██░░ ▒ ▄▀▒░ 
