@@ -17,7 +17,7 @@ time.sleep(5)
 os.system("clear")
 print("""\033[95m
  Tools By : BanuXyz
- Remake By : Franklin Slebew
+ Remake By : Franklin Dingin
   ▄▄▄▄    ▄▄▄      ███▄    █  █    ██ ▒██   ██▒▓██   ██▓▒███████▒
  ▓█████▄ ▒████▄    ██ ▀█   █  ██  ▓██▒▒▒ █ █ ▒░ ▒██  ██▒▒ ▒ ▒ ▄▀░
  ▒██▒ ▄██▒██  ▀█▄ ▓██  ▀█ ██▒▓██  ▒██░░░  █   ░  ▒██ ██░░ ▒ ▄▀▒░ 
